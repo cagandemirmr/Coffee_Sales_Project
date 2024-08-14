@@ -85,5 +85,7 @@ Lastly, a pivot table was developed to identify the top 5 customers based on sal
 
 Finally, I created a dashboard incorporating the graphs and pivot tables developed earlier, providing a comprehensive overview of the sales data.
 
+![image](https://github.com/user-attachments/assets/af20f955-53f6-4f2b-ad31-5e1ff4adfa22)
+
 
 
